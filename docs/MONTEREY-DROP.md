@@ -4,7 +4,7 @@ With OpenCore Legacy Patcher v0.1.7 and newer, we've implemented beta macOS Mont
 
 ## Newly dropped hardware
 
-With Monterey, Apple continues their their somewhat ruthless march of dropping Intel hardware. This release saw the removal, and thus addition into OpenCore Legacy Patcher, of the following models:
+With Monterey, Apple continues their somewhat ruthless march of dropping Intel hardware. This release saw the removal, and thus addition into OpenCore Legacy Patcher, of the following models:
 
 * iMac14,4
 * iMac15,1
